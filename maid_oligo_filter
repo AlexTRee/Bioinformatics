@@ -86,7 +86,7 @@ foreach my $line2 (@lines2)
 	my $maid = $arr[0];
 	my $oligo = $arr[1];
 	my $seq = $arr[2];
-	open (OUTPUT, '>>maid_oligo_data.fa');
+	open (OUTPUT, '>>maid_oligo_data.txt');
 	print OUTPUT ">$maid$oligo\n$seq";
 	close (OUTPUT);
 }
