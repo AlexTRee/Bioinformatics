@@ -18,5 +18,5 @@ Regeneron Legacy Projects Visualization
       - chr7	16822253	16822272	100HDF	100	-
 
 ## Final Result:
-# 98.3% of legacy MAIDs are successfully matched with deletion.
+98.3% of legacy MAIDs are successfully matched with deletion.
 
