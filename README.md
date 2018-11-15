@@ -1,7 +1,12 @@
 Bioinformatics
 ==============
 
-Scripts I wrote for my two summer internships. See branches.
+Scripts I wrote for Bioinformatics analysis. 
+
+
+
+Branches are two summer internship projects:
+============================================
 
 - Computational Biology/Chemistry Intern, May 2016 – August 2016
     Vertex Pharmaceuticals, Inc., San Diego, CA 92121
