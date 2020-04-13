@@ -46,7 +46,7 @@ while i < len(tirages) :
 
 sys.stdout.write(str(0)+"/"+str(maxval))
 sys.stdout.flush()
-# extraction des tirage pour le fichier 1
+
 with open(args.fileName1, 'r') as file1 :
 		i = 0
 		j = 0
@@ -67,7 +67,7 @@ sys.stdout.write("\r"+"s_"+path_leaf(args.fileName1)+" done.\n")
 
 sys.stdout.write(str(0)+"/"+str(maxval))
 sys.stdout.flush()
-# extraction des tirage pour le fichier 2
+
 if len(args.fileName2) > 0 :
 	with open(args.fileName2, 'r') as file2 :
 			i = 0
